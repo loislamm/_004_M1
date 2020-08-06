@@ -1,0 +1,15 @@
+body {
+    background-color: cornflowerblue;
+    color: whitesmoke;
+
+    font: normal 20px lucida console, monaco, momospace;
+}
+.black-box{
+    background: black;
+}
+.red-border{ 
+    border: 5px solid red;
+}
+#yellow-letters{
+   color:yellow;
+}
